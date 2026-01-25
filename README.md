@@ -32,5 +32,5 @@ I enjoy working with modern frontend technologies and learning by building real-
 
 ---
 
-- 🌱 Currently improving React, Next.js, and advanced CSS  
+- 🌱 Currently improving React, Next.js, and advanced CSS with Animations Libraries
 - 🎯 Goal: Transition from intern-level to a professional frontend developer
