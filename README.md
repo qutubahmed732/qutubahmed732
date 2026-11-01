@@ -28,7 +28,7 @@ I enjoy working with modern frontend technologies and learning by building real-
 <a href="https://github.com" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://jasmine.github.io" target="_blank" rel="noopener noreferrer"><img alt="Jasmine" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white"></a>
-![Portfolio]([https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139]([https://portfolio-virid-one-85.vercel.app/](https://portfolio-virid-one-85.vercel.app/)))
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139)
 
 ---
 
